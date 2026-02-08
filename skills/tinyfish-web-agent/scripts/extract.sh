@@ -64,7 +64,7 @@ PAYLOAD="${PAYLOAD}}"
 
 echo "Extracting from ${URL}..." >&2
 
-exec curl -N -s -X POST "https://mino.ai/v1/automation/run-sse" \
+exec curl -N -s -X POST "https://agent.tinyfish.ai/v1/automation/run-sse" \
   -H "X-API-Key: ${MINO_API_KEY}" \
   -H "Content-Type: application/json" \
   -d "$PAYLOAD"
